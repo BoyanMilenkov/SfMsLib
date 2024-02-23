@@ -16,7 +16,7 @@ There is the homepage, the register page, the login page, the dashboard page, a 
 
 ## Homepage
 
-![alt text](ssss.png)
+![!\[alt text\](ssss.png)](images/Screenshot_2024-02-23_113417.png)
 
 ## Register page
 
