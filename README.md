@@ -4,7 +4,7 @@
 ##Overview
 **Music Library** is a front-end Single Page Application (**SPA**) which is for **creating** and **managing** music albums. The application allows the users to browe through an albums catalog. For registration useres have to provide their e-mail's and a password of their choice to create an album card. The album authors can also edir or delete their own publications at any time
 
-![alt text](ssss.png)
+![alt text](images/ssss.png)
 
 # Music Library Web App
 
@@ -37,7 +37,7 @@ There is the homepage, the register page, the login page, the dashboard page, a 
 ## How to start the app.
 - Firstly you must install the dependencies in the package.json with typing the command "npm install" in the terminal. After doing so use the command "npm start" in the terminal and the app will start.
 
-![alt text](np.png)
+![alt text](images/np.png)
 
 ## Tests
 
