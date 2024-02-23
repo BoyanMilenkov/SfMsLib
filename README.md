@@ -35,17 +35,31 @@ There is the homepage, the register page, the login page, the dashboard page, a 
 ![alt text](images/add.png)
 
 ## How to start the app.
-- Firstly you must install the dependencies in the package.json with typing the command "npm install" in the terminal. After doing so use the command "npm start" in the terminal and the app will start.
+- Firstly you must install the dependencies in the package.json with typing the command
+```
+  npm install
+```
+   in the terminal. After doing so use the command
+```
+npm start
+```
+in the terminal and the app will start.
 
 ![alt text](images/np.png)
 
 ## Tests
 
-In order to run tests the web server should be operation. If you want to start it use "npm run start".
+In order to run tests the web server should be operation. If you want to start it use 
+```
+npm run start
+```
 
 This is a one time operation. 
 
-To execute tests you have to use "npm run test".
+To execute tests you have to use 
+```
+npm run test
+```
 
 The test results will be displayed in the terminal. The operation can be performed unlimited amount of time.
 
